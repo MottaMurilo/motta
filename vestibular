@@ -1,0 +1,15 @@
+
+
+N = int(input())
+gab = input()
+resp  = input()
+
+certo = 0
+i = 0
+
+while i < N:
+    if gab[i]  == resp[i]:
+        certo = certo + 1
+    i = i + 1
+
+print(certo)

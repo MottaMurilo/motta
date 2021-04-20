@@ -1,0 +1,7 @@
+x = int(input()
+
+m = x*1000
+c = x*100
+k = x/1000
+
+print('{} milímetros, {} centimetros, {}, kilometros'.format(m, c, k))

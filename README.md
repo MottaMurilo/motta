@@ -1,2 +1,2 @@
 # motta
-Lugar onde irei postar alguns códigos básicos em sua maioria para salvar meu conhecimento sobre python!
+Aqui estão alguns exercícios lógicos e matemáticos resolvidos em python, para fazer-se de uso meu conhecimento simplório sobre Python.
